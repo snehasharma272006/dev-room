@@ -7,4 +7,11 @@ print (ord("a"))
 
 #slicing a string 
 a="python"
-print(a[0:3])
+print(a[0:3]) #the last index that is not included
+
+#type conversion
+a=10
+b=float(a)
+print (b)
+
+
